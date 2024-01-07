@@ -1,0 +1,4 @@
+hj git reset --soft 
+git reset  head filename 
+git reset -mixed
+
